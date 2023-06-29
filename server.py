@@ -4,7 +4,7 @@ import argparse
 import logging
 import os
 
-from database import *
+from database import Database
 
 MAX_MESSAGE_SIZE = 4096
 
